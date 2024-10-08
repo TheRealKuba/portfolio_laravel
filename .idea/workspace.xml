@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="1.0" />
+    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="2.0.1">
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/app/Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/factories/ProductFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/migrations/2024_10_08_053323_create_products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/seeders/ProductSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/.env.example" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +47,7 @@
     </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,7 +65,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "kb/database",
     "last_opened_file_path": "/Users/jakubkokes/WebstormProjects/laravel_kokes/example-app/storage",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,6 +83,9 @@
       <recent name="$PROJECT_DIR$/example-app/resources" />
       <recent name="$PROJECT_DIR$/example-app/public" />
       <recent name="$PROJECT_DIR$/example-app/database" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -97,7 +108,9 @@
       <workItem from="1726949972281" duration="311000" />
       <workItem from="1727068527589" duration="8247000" />
       <workItem from="1727760006758" duration="2135000" />
-      <workItem from="1727762403564" duration="346000" />
+      <workItem from="1727762403564" duration="1368000" />
+      <workItem from="1728280915042" duration="1759000" />
+      <workItem from="1728364843647" duration="1591000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <option name="closed" value="true" />
@@ -107,7 +120,39 @@
       <option name="project" value="LOCAL" />
       <updated>1727072886944</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1727762791721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727762791721</updated>
+    </task>
+    <task id="LOCAL-00003" summary="první můj apdejt juchůůů">
+      <option name="closed" value="true" />
+      <created>1727762974391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727762974391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="druhý můj apdejt juchůůů">
+      <option name="closed" value="true" />
+      <created>1728281362962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728281362962</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2.0.1">
+      <option name="closed" value="true" />
+      <created>1728364964416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728364964416</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +169,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -143,6 +188,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+    <MESSAGE value="update" />
+    <MESSAGE value="první můj apdejt juchůůů" />
+    <MESSAGE value="druhý můj apdejt juchůůů" />
+    <MESSAGE value="2.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0.1" />
   </component>
 </project>
