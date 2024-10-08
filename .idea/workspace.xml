@@ -4,66 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="první můj apdejt juchůůů">
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/bootstrap/providers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000001_create_cache_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000002_create_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/app/private/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/vite.config.js" afterDir="false" />
+    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="druhý můj apdejt juchůůů">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +103,7 @@
       <workItem from="1727068527589" duration="8247000" />
       <workItem from="1727760006758" duration="2135000" />
       <workItem from="1727762403564" duration="1368000" />
-      <workItem from="1728280915042" duration="342000" />
+      <workItem from="1728280915042" duration="1759000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <option name="closed" value="true" />
@@ -187,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727762974391</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="druhý můj apdejt juchůůů">
+      <option name="closed" value="true" />
+      <created>1728281362962</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728281362962</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +175,7 @@
     <MESSAGE value="1.0" />
     <MESSAGE value="update" />
     <MESSAGE value="první můj apdejt juchůůů" />
-    <option name="LAST_COMMIT_MESSAGE" value="první můj apdejt juchůůů" />
+    <MESSAGE value="druhý můj apdejt juchůůů" />
+    <option name="LAST_COMMIT_MESSAGE" value="druhý můj apdejt juchůůů" />
   </component>
 </project>
