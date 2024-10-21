@@ -4,24 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="2.0.3">
+    <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="2.0.4">
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/js/login.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/app/Models/Products.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/migrations/2024_10_08_053323_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/database/migrations/2024_10_08_053323_create_products_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/seeders/ProductSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/database/seeders/ProductSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -31,6 +31,7 @@
             <value>
               <list>
                 <branch-info repo="$USER_HOME$/Documents/git" source="master" />
+                <branch-info repo="$PROJECT_DIR$" source="master" />
               </list>
             </value>
           </entry>
@@ -44,6 +45,13 @@
             <value>
               <list>
                 <branch-info repo="$PROJECT_DIR$" source="develop" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/Develop" />
               </list>
             </value>
           </entry>
@@ -72,6 +80,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;kb/database&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jakubkokes/WebstormProjects/laravel_kokes/example-app/storage&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,9 +99,11 @@
       <recent name="$PROJECT_DIR$/example-app/database" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views/products" />
+      <recent name="$PROJECT_DIR$/eshop_biocolors/public/css" />
+      <recent name="$PROJECT_DIR$/eshop_biocolors/public" />
+      <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views/product styles" />
       <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views/products" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -121,6 +132,7 @@
       <workItem from="1728369179899" duration="1729000" />
       <workItem from="1728882967025" duration="3822000" />
       <workItem from="1728969206703" duration="4778000" />
+      <workItem from="1729487728048" duration="4269000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <option name="closed" value="true" />
@@ -186,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728369617132</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2.0.4">
+      <option name="closed" value="true" />
+      <created>1729487839262</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729487839262</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +223,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -228,6 +248,7 @@
     <MESSAGE value="2.0.1" />
     <MESSAGE value="2.0.2" />
     <MESSAGE value="2.0.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.0.3" />
+    <MESSAGE value="2.0.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0.4" />
   </component>
 </project>
