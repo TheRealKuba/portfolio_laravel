@@ -5,10 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05dd705e-68c6-430f-a53d-d852bd2cb4a0" name="Changes" comment="2.0.4">
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eshop_biocolors/public/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eshop-Laravel/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop-Laravel/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eshop-Laravel/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop-Laravel/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eshop-Laravel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Eshop-Laravel/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Http/Controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Models/Products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/bootstrap/providers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/factories/ProductFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000001_create_cache_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/migrations/0001_01_01_000002_create_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/migrations/2024_10_08_053323_create_products_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/database/seeders/ProductSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/js/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/auth.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/app/private/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eshop_biocolors/vite.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,9 +128,10 @@
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Develop" />
+        <entry key="$PROJECT_DIR$/Eshop-Laravel" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Eshop-Laravel" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
@@ -78,7 +146,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;kb/database&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jakubkokes/WebstormProjects/laravel_kokes/example-app/storage&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -99,11 +167,11 @@
       <recent name="$PROJECT_DIR$/example-app/database" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/eshop_biocolors/public/css" />
       <recent name="$PROJECT_DIR$/eshop_biocolors/public" />
       <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views/product styles" />
       <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views" />
-      <recent name="$PROJECT_DIR$/eshop_biocolors/resources/views/products" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -132,7 +200,11 @@
       <workItem from="1728369179899" duration="1729000" />
       <workItem from="1728882967025" duration="3822000" />
       <workItem from="1728969206703" duration="4778000" />
-      <workItem from="1729487728048" duration="4269000" />
+      <workItem from="1729487728048" duration="4883000" />
+      <workItem from="1729575382505" duration="3662000" />
+      <workItem from="1731306590128" duration="2113000" />
+      <workItem from="1731910923423" duration="19000" />
+      <workItem from="1732603442318" duration="2437000" />
     </task>
     <task id="LOCAL-00001" summary="1.0">
       <option name="closed" value="true" />
@@ -206,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729487839262</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="2.0.4">
+      <option name="closed" value="true" />
+      <created>1729492656661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729492656661</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
